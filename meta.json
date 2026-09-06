@@ -1,0 +1,23 @@
+{
+  "repo": "red-giant-professional-bundle-2026",
+  "product": "Red Giant Professional Bundle 2026",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "red-giant",
+    "trapcode-suite",
+    "motion-design-plugins",
+    "after-effects-pack",
+    "looks-library",
+    "redgiant-setup-failed-fix",
+    "how-to-install-redgiant",
+    "redgiant-windows",
+    "redgiant-desktop-2026",
+    "redgiant-desktop-package"
+  ],
+  "site": "toolix.me"
+}
